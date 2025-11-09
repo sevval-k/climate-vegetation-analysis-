@@ -1,7 +1,5 @@
-# climate-vegetation-analysis-
-Integrating remote sensing and machine learning to analyze the impact of climate change on vegetation health in Turkiye. (2016–2020)
-
 # Climate and Vegetation Analysis (Turkey, 2016–2020)
+Integrating remote sensing and machine learning to analyze the impact of climate change on vegetation health in Turkiye. (2016–2020)
 
 ## Project Overview
 This project aims to analyze the impacts of climate change on vegetation health in Turkey during 2016–2020. It combines NDVI (Normalized Difference Vegetation Index) data from Sentinel-2 with key climate and environmental parameters, including temperature, precipitation, soil moisture, and Sentinel-1 radar backscatter, to study temporal and spatial changes in vegetation health.
